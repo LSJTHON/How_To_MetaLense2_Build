@@ -40,16 +40,18 @@ Error List
      
 
      
- ### 4. CommandInvokationFailure: Gradle build failed.  ❌
+ ### 4. CommandInvokationFailure: Gradle build failed. ✅ (2번 문제가 해결될 시 같이 없어짐)
 
 ![image](https://github.com/user-attachments/assets/047400f7-69ca-4811-9bc7-00172e7ab063)
 
 
- ### 5. UnityEditor.BuildPlayerWindow+BuildMethodException  ❌
+ ### 5. UnityEditor.BuildPlayerWindow+BuildMethodException ✅ (2번 문제가 해결될 시 같이 없어짐)
 
 ![image](https://github.com/user-attachments/assets/588afd30-f880-4083-ad84-e78c311074a4)
 
 
+ ### 6. DeploymentOperationFailedException: No activity in the manifest with action MAIN and category LAUNCHER. ✅
 
+     프로젝트 폴더 -> Plugins -> Android 폴더 내부 AndroidManifest.xml 수정
+![image](https://github.com/user-attachments/assets/ddf219d3-67f4-458e-a1a5-b096cbf522b9)
 
-     
