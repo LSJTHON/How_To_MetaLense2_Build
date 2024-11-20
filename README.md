@@ -3,6 +3,7 @@
 
 Error List 
   1. 키 등록 에러
+
       ![image](https://github.com/user-attachments/assets/9761c054-808f-456b-bd49-b268fb40e1f8)
      사진처럼 나오거나 콘솔에 Key Store 관련 에러가 나온다면
      Project Settings -> Player -> Publishing Settings의 Project Keysoter 가 있음
