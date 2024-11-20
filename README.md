@@ -55,3 +55,18 @@ Error List
      프로젝트 폴더 -> Plugins -> Android 폴더 내부 AndroidManifest.xml 수정 파일이 없으면 새로 생성할것.
 ![image](https://github.com/user-attachments/assets/ddf219d3-67f4-458e-a1a5-b096cbf522b9)
 
+
+
+ ### 7. 메타렌즈 빌드 후 실행 시 검은화면 현상 ✅
+      -  Snapdragon은 OpenXR 플러그인의 항상 1.10.0버전을 권장하고있음. 다른 버전을 사용하면 검은화면이 나올 가능성이 있다고함.
+                (해당 Docs를 잘 뒤져보면 팁들을 올려놓음) 
+          Snapdragon 링크 : https://docs.spaces.qualcomm.com/unity/setup/setup-guide
+ 
+ ### 8. 메타버스 프로젝트 시 사용하는 렌즈 테스트 할때 유용한 툴 ✅
+      -  ADB Control을 다운받으면 렌즈 APK파일을 추가하거나 삭제할때 아주 편함
+
+      
+
+
+
+
