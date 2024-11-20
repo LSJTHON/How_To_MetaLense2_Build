@@ -21,6 +21,8 @@ Error List
 
      해당 에러는 build.gradle 파일의 설정값이 잘못되었다는 의미인거같음.
 
+     경로 : 내 프로젝트 폴더 -> Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+
      - 초기값
        
         ![image](https://github.com/user-attachments/assets/ff996cd1-194a-463f-b625-2c3be932349f)
