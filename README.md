@@ -15,3 +15,26 @@ Error List
 
      First and Last Name 부터 입력하지 않아도 상관없으며 실제 앱 배포 시 신경써야할 부분인거같음
 
+  2. Build And Run Error (미해결)
+
+     ![image](https://github.com/user-attachments/assets/1c2ba1da-40af-4571-8fdb-4b74362aa7aa)
+
+     
+  3. CommandInvokationFailure: Gradle build failed. (미해결)
+
+     ![image](https://github.com/user-attachments/assets/047400f7-69ca-4811-9bc7-00172e7ab063)
+
+
+  4. UnityEditor.BuildPlayerWindow+BuildMethodException (미해결)
+
+     ![image](https://github.com/user-attachments/assets/588afd30-f880-4083-ad84-e78c311074a4)
+
+
+
+
+
+
+
+
+     
+
