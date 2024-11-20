@@ -52,6 +52,6 @@ Error List
 
  ### 6. DeploymentOperationFailedException: No activity in the manifest with action MAIN and category LAUNCHER. ✅
 
-     프로젝트 폴더 -> Plugins -> Android 폴더 내부 AndroidManifest.xml 수정
+     프로젝트 폴더 -> Plugins -> Android 폴더 내부 AndroidManifest.xml 수정 파일이 없으면 새로 생성할것.
 ![image](https://github.com/user-attachments/assets/ddf219d3-67f4-458e-a1a5-b096cbf522b9)
 
