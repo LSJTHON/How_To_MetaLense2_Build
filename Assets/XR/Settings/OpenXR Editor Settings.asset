@@ -17,4 +17,5 @@ MonoBehaviour:
   - featureSets:
     - com.microsoft.openxr.featureset.wmr
   - featureSets: []
-  - featureSets: []
+  - featureSets:
+    - com.qualcomm.snapdragon.spaces
