@@ -64,8 +64,12 @@ Error List
                 (해당 Docs를 잘 뒤져보면 팁들을 올려놓음) 
           Snapdragon 링크 : https://docs.spaces.qualcomm.com/unity/setup/setup-guide
 
-          그리고 반드시 Snapdragon에서 권장하는 버전을 지켜라! 
+      -  반드시 Snapdragon에서 권장하는 버전을 지켜라! 
           OpenXR설정에서 기능 선택 부분에 기존 MRTK2 설정 이름과 같은 경우가 있음 그래서 어느 라이브러리의 기능인지 확인 잘 하고 선택!
+
+      -  그래도 검은화면이 나온다면 ADB AppControl에서 앱을 우클릭 후 Set Permissions 클릭 거기서 카메라 권한 추가해주면 해결
+![image](https://github.com/user-attachments/assets/f1ba11b3-8d26-4a21-8e89-43143540d643)
+   
  
  ### 8. 메타버스 프로젝트 시 사용하는 렌즈 테스트 할때 유용한 툴 ✅
       -  ADB Control을 다운받으면 렌즈 APK파일을 추가하거나 삭제할때 아주 편함
