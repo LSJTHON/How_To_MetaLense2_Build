@@ -67,7 +67,9 @@ Error List
       -  반드시 Snapdragon에서 권장하는 버전을 지켜라! 
           OpenXR설정에서 기능 선택 부분에 기존 MRTK2 설정 이름과 같은 경우가 있음 그래서 어느 라이브러리의 기능인지 확인 잘 하고 선택!
 
-      -  그래도 검은화면이 나온다면 ADB AppControl에서 앱을 우클릭 후 Set Permissions 클릭 거기서 카메라 권한 추가해주면 해결
+      -  그래도 검은화면이 나온다면 ADB AppControl에서 앱을 우클릭 후 Set Permissions 클릭 거기서 카메라 권한 추가해주면 해결 
+           (단, 이것떄문에 프로젝트가 멈추거나 렉이 심해진다면 권한 없어도 동작 잘한다? 그냥 끄는게 나음)
+            이것 때문에 원인도 모르고 계속 삽질함.
 ![image](https://github.com/user-attachments/assets/f1ba11b3-8d26-4a21-8e89-43143540d643)
    
  
