@@ -77,7 +77,7 @@ Error List
 
  ### 9. 빌드는 잘 했는데 렌즈에서 API요청 반응 없을때
       -  Project Settings -> Player -> Other Settings -> Configuration -> Allow downloads over HTTP 옵션 설정
-![image](https://github.com/user-attachments/assets/1054d270-a458-44a1-85b1-1e002d58a7bb)
+![image](https://github.com/user-attachments/assets/4910172a-e4b8-49de-81e9-678cb0662f93)
 
      -  해당 옵션을 Always allowed로 설정하면 모든 HTTP요청을 허용할 수 있음
       
