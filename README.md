@@ -71,9 +71,15 @@ Error List
 ![image](https://github.com/user-attachments/assets/f1ba11b3-8d26-4a21-8e89-43143540d643)
    
  
- ### 8. 메타버스 프로젝트 시 사용하는 렌즈 테스트 할때 유용한 툴 ✅
+ ### 8. 렌즈 테스트 할때 유용한 툴 ✅
       -  ADB Control을 다운받으면 렌즈 APK파일을 추가하거나 삭제할때 아주 편함
+      -  유니티의 Anodroid Logcat : 렌즈 내부 동작을 디버깅할 수 있다.
 
+ ### 9. 빌드는 잘 했는데 렌즈에서 API요청 반응 없을때
+      -  Project Settings -> Player -> Other Settings -> Configuration -> Allow downloads over HTTP 옵션 설정
+![image](https://github.com/user-attachments/assets/1054d270-a458-44a1-85b1-1e002d58a7bb)
+
+     -  해당 옵션을 Always allowed로 설정하면 모든 HTTP요청을 허용할 수 있음
       
 
 
